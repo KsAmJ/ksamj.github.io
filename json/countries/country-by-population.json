@@ -1,5 +1,4 @@
-[
-    {
+[{
         "country": "Afghanistan",
         "population": 37172386
     },
@@ -565,7 +564,7 @@
     },
     {
         "country": "Montenegro",
-        "population": "631219"
+        "population": 631219
     },
     {
         "country": "Montserrat",
